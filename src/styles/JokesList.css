@@ -1,0 +1,68 @@
+.main-button{
+    border-radius: 3px;
+    background-color: #2196f3;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 5px 10px;
+    cursor: pointer;
+    
+}
+.close-button{
+    border-radius: 5px;
+    background-color: #e6e9eb;
+    border: none;
+    color: #9f9f9f;
+    font-size: 18px;
+    padding: 10px 14px;
+    cursor: pointer;
+    margin-right: 15px;
+}
+
+.close-button:hover{
+    filter: brightness(1.05);
+}
+
+
+.main-button:hover{
+    background-color: #2196f3;
+    filter: brightness(1.1);
+    
+}
+
+.update-button{
+    border-radius: 5px;
+    background-color: #ffe6e2;
+    border: none;
+    color: #fc6349;
+    font-size: 18px;
+    padding: 5px 10px;
+    cursor: pointer;
+    
+}
+
+.update-button:hover{
+    background-color: #ffe6e2;
+    color: #fc6349;
+    filter: brightness(1.05);
+}
+.Dropdown-control{
+    width: 150px;
+}
+
+.list-name{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.input-name-update{
+    background-color: #fff;
+    color: #9c9494;
+    font-weight: 600;
+    width: 140px;
+    margin-left: 1px;
+    margin-top: 3px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 4px;
+}
